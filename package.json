@@ -1,0 +1,9 @@
+{
+  "name": "redux-ducktale",
+  "version": "0.0.1",
+  "description": "A heavilly opinionated redux duck structure wrapper",
+  "main": "src/DuckTale.js",
+  "repository": "git@github.com:kaisermann/redux-ducktale",
+  "author": "Christian Kaisermann <christian@kaisermann.me>",
+  "license": "MIT"
+}
