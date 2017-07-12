@@ -2,7 +2,7 @@
 
 ## Not even ready for normal usage
 
-Note: This script was made with education purposes, but I'm studying if it's somewhat relevant to have an actual package...
+Note: This script was made with learning purposes, but I'm studying if it's somewhat relevant to have an actual package...
 
 Any feedback is appreciated, but please note this script was not highly tested.
 
